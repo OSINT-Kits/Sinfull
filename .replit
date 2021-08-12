@@ -1,0 +1,2 @@
+language = "python"
+run = "pyinstaller --onefile SinFull.py"
